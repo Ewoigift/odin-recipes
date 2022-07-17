@@ -1,2 +1,2 @@
-recipe for odin project 
+Recipe for odin project. 
 Contains recipes for two typical Kenyan meals.
